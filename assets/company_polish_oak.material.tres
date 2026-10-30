@@ -1,0 +1,26 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://whvehfc73434"]
+
+[ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_6eq1s"]
+[ext_resource type="Texture2D" uid="uid://c6y08q78tram6" path="res://web/release/assets/company_26.jpg" id="2_i0wtc"]
+[ext_resource type="Texture2D" uid="uid://cfg21p5bj4hk0" path="res://web/release/assets/company_polish_oak_normal.jpg" id="3_m1pqj"]
+[ext_resource type="Texture2D" uid="uid://bsjpexmxoo1r8" path="res://web/release/assets/company_polish_oak_orm.jpg" id="4_m3dlc"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_6eq1s")
+shader_parameter/uv_tiling = Vector2(1, 1)
+shader_parameter/uv_offset = Vector2(0, 0)
+shader_parameter/albedo_tex = ExtResource("2_i0wtc")
+shader_parameter/albedo_color = Color(0.65, 0.47, 0.3, 1)
+shader_parameter/albedo_brightness = 1.0
+shader_parameter/albedo_contrast = 1.0
+shader_parameter/albedo_saturation = 1.0
+shader_parameter/normal_tex = ExtResource("3_m1pqj")
+shader_parameter/normal_scale = 1.0
+shader_parameter/flip_normal_y = false
+shader_parameter/texture_mode = 1
+shader_parameter/metallic_mul = 1.0
+shader_parameter/roughness_mul = 1.0
+shader_parameter/ao_mul = 1.0
+shader_parameter/packed_format = 1
+shader_parameter/packed_tex = ExtResource("4_m3dlc")

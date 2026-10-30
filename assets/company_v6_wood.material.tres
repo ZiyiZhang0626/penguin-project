@@ -1,0 +1,26 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://c4r58cyi6oae0"]
+
+[ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_lqjn4"]
+[ext_resource type="Texture2D" uid="uid://3e263faax0s" path="res://web/release/assets/company_v6_wood_albedo.jpg" id="2_qwo01"]
+[ext_resource type="Texture2D" uid="uid://dlwesxym52apj" path="res://web/release/assets/company_v6_wood_normal.jpg" id="3_3irbv"]
+[ext_resource type="Texture2D" uid="uid://bt7d4mc3gnv1" path="res://web/release/assets/company_v6_wood_orm.jpg" id="4_wgqf7"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_lqjn4")
+shader_parameter/uv_tiling = Vector2(1, 1)
+shader_parameter/uv_offset = Vector2(0, 0)
+shader_parameter/albedo_tex = ExtResource("2_qwo01")
+shader_parameter/albedo_color = Color(1, 1, 1, 1)
+shader_parameter/albedo_brightness = 1.0
+shader_parameter/albedo_contrast = 1.0
+shader_parameter/albedo_saturation = 1.0
+shader_parameter/normal_tex = ExtResource("3_3irbv")
+shader_parameter/normal_scale = 1.0
+shader_parameter/flip_normal_y = false
+shader_parameter/texture_mode = 1
+shader_parameter/metallic_mul = 1.0
+shader_parameter/roughness_mul = 1.0
+shader_parameter/ao_mul = 1.0
+shader_parameter/packed_format = 1
+shader_parameter/packed_tex = ExtResource("4_wgqf7")

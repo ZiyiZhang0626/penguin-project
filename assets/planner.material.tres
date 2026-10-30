@@ -1,0 +1,26 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://c1yrii1livl6i"]
+
+[ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_j77xf"]
+[ext_resource type="Texture2D" uid="uid://1804ctcunayp" path="res://web/source/public/assets/planner_Color_27bb008d-bd55-4bc7-b916-afdbaa1f08b4.jpg" id="2_4weop"]
+[ext_resource type="Texture2D" uid="uid://sbbo1nboa0qx" path="res://web/source/public/assets/planner_tripo_material_27bb008d-bd55-4bc7-b916-afdbaa1f08b4_normal.jpg" id="3_h8g53"]
+[ext_resource type="Texture2D" uid="uid://nb04wr8ophjm" path="res://web/source/public/assets/planner_tripo_material_27bb008d-bd55-4bc7-b916-afdbaa1f08b4_orm.jpg" id="4_rkk5k"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_j77xf")
+shader_parameter/uv_tiling = Vector2(1, 1)
+shader_parameter/uv_offset = Vector2(0, 0)
+shader_parameter/albedo_tex = ExtResource("2_4weop")
+shader_parameter/albedo_color = Color(1, 1, 1, 1)
+shader_parameter/albedo_brightness = 1.0
+shader_parameter/albedo_contrast = 1.0
+shader_parameter/albedo_saturation = 1.0
+shader_parameter/normal_tex = ExtResource("3_h8g53")
+shader_parameter/normal_scale = 1.0
+shader_parameter/flip_normal_y = false
+shader_parameter/texture_mode = 1
+shader_parameter/metallic_mul = 1.0
+shader_parameter/roughness_mul = 1.0
+shader_parameter/ao_mul = 1.0
+shader_parameter/packed_format = 2
+shader_parameter/packed_tex = ExtResource("4_rkk5k")

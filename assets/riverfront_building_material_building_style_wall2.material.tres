@@ -1,0 +1,26 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://co00dlemb6pi3"]
+
+[ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_xngor"]
+[ext_resource type="Texture2D" uid="uid://bit42qm3dpm0n" path="res://web/release/assets/riverfront_building_material_building_style_wall_albedo_2.png" id="2_3ty73"]
+[ext_resource type="Texture2D" uid="uid://c0dptncv341us" path="res://web/release/assets/riverfront_building_material_building_style_wall_normal_2.png" id="3_5eik3"]
+[ext_resource type="Texture2D" uid="uid://cgl5dj1xv3bq2" path="res://web/release/assets/riverfront_building_material_building_style_wall_orm_2.png" id="4_6aj1f"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_xngor")
+shader_parameter/uv_tiling = Vector2(1, 1)
+shader_parameter/uv_offset = Vector2(0, 0)
+shader_parameter/albedo_tex = ExtResource("2_3ty73")
+shader_parameter/albedo_color = Color(0.7954358, 0.77543575, 0.70543575, 1)
+shader_parameter/albedo_brightness = 1.0
+shader_parameter/albedo_contrast = 1.0
+shader_parameter/albedo_saturation = 1.0
+shader_parameter/normal_tex = ExtResource("3_5eik3")
+shader_parameter/normal_scale = 1.0
+shader_parameter/flip_normal_y = false
+shader_parameter/texture_mode = 1
+shader_parameter/metallic_mul = 1.0
+shader_parameter/roughness_mul = 1.0
+shader_parameter/ao_mul = 1.0
+shader_parameter/packed_format = 1
+shader_parameter/packed_tex = ExtResource("4_6aj1f")

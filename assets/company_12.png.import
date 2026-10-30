@@ -1,0 +1,41 @@
+[remap]
+
+importer="streamed_texture_2d"
+type="StreamedTexture2D"
+uid="uid://bwtn7ckuwhgug"
+path.s3tc="res://.godot/imported/company_12.png-6ca43ed8005e863a436297e43da4e139.s3tc.stex"
+metadata={
+"fast_mip_downsample": true,
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "618484d6761b27f819db2e6078baf188"
+}
+
+[deps]
+
+source_file="res://web/source/public/assets/company_12.png"
+dest_files=["res://.godot/imported/company_12.png-6ca43ed8005e863a436297e43da4e139.s3tc.stex"]
+
+[params]
+
+compress/high_quality=false
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+roughness/mode=0
+roughness/src_normal=""
+streaming/min_lod_override=0
+streaming/max_lod_override=0
+process/source_color_space=0
+process/channel_remap/red=0
+process/channel_remap/green=1
+process/channel_remap/blue=2
+process/channel_remap/alpha=3
+process/fix_alpha_border=false
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0

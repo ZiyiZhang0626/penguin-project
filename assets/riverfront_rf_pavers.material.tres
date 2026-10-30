@@ -1,0 +1,26 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://b3emgmmmjfuwi"]
+
+[ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_vua6l"]
+[ext_resource type="Texture2D" uid="uid://6i0c6ra2oqyd" path="res://web/release/assets/riverfront_0.jpg" id="2_q8ax0"]
+[ext_resource type="Texture2D" uid="uid://dud7b5x0y810a" path="res://web/release/assets/riverfront_rf_pavers_normal.jpg" id="3_13s1c"]
+[ext_resource type="Texture2D" uid="uid://cip17w0jfg26d" path="res://web/release/assets/riverfront_rf_pavers_orm.jpg" id="4_pxwpo"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_vua6l")
+shader_parameter/uv_tiling = Vector2(1, 1)
+shader_parameter/uv_offset = Vector2(0, 0)
+shader_parameter/albedo_tex = ExtResource("2_q8ax0")
+shader_parameter/albedo_color = Color(0.57, 0.55, 0.48, 1)
+shader_parameter/albedo_brightness = 1.0
+shader_parameter/albedo_contrast = 1.0
+shader_parameter/albedo_saturation = 1.0
+shader_parameter/normal_tex = ExtResource("3_13s1c")
+shader_parameter/normal_scale = 1.0
+shader_parameter/flip_normal_y = false
+shader_parameter/texture_mode = 1
+shader_parameter/metallic_mul = 1.0
+shader_parameter/roughness_mul = 1.0
+shader_parameter/ao_mul = 1.0
+shader_parameter/packed_format = 1
+shader_parameter/packed_tex = ExtResource("4_pxwpo")

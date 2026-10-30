@@ -1,0 +1,26 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://c2yv7lxxitjvg"]
+
+[ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_kxwyp"]
+[ext_resource type="Texture2D" uid="uid://dgo0h0pyy7sr4" path="res://web/release/assets/riverfront_3.jpg" id="2_ar5uk"]
+[ext_resource type="Texture2D" uid="uid://cs76urfdd4kl3" path="res://web/release/assets/riverfront_rf_granite_normal.jpg" id="3_mkn6n"]
+[ext_resource type="Texture2D" uid="uid://dchha2utim0g1" path="res://web/release/assets/riverfront_rf_granite_orm.jpg" id="4_l8rk0"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_kxwyp")
+shader_parameter/uv_tiling = Vector2(1, 1)
+shader_parameter/uv_offset = Vector2(0, 0)
+shader_parameter/albedo_tex = ExtResource("2_ar5uk")
+shader_parameter/albedo_color = Color(0.43, 0.425, 0.38, 1)
+shader_parameter/albedo_brightness = 1.0
+shader_parameter/albedo_contrast = 1.0
+shader_parameter/albedo_saturation = 1.0
+shader_parameter/normal_tex = ExtResource("3_mkn6n")
+shader_parameter/normal_scale = 1.0
+shader_parameter/flip_normal_y = false
+shader_parameter/texture_mode = 1
+shader_parameter/metallic_mul = 1.0
+shader_parameter/roughness_mul = 1.0
+shader_parameter/ao_mul = 1.0
+shader_parameter/packed_format = 1
+shader_parameter/packed_tex = ExtResource("4_l8rk0")

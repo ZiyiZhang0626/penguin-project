@@ -1,0 +1,24 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://b7u0upkxfmig"]
+
+[ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_o7a8t"]
+[ext_resource type="Texture2D" uid="uid://hxepf3e5b651" path="res://web/source/public/assets/riverfront_shoot_albedo_8.png" id="2_vsbj2"]
+[ext_resource type="Texture2D" uid="uid://d0t24k7hvdofy" path="res://web/source/public/assets/riverfront_shoot_normal_8.png" id="3_ic1h6"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_o7a8t")
+shader_parameter/uv_tiling = Vector2(1, 1)
+shader_parameter/uv_offset = Vector2(0, 0)
+shader_parameter/albedo_tex = ExtResource("2_vsbj2")
+shader_parameter/albedo_color = Color(1, 1, 1, 1)
+shader_parameter/albedo_brightness = 1.0
+shader_parameter/albedo_contrast = 1.0
+shader_parameter/albedo_saturation = 1.0
+shader_parameter/normal_tex = ExtResource("3_ic1h6")
+shader_parameter/normal_scale = 1.0
+shader_parameter/flip_normal_y = false
+shader_parameter/texture_mode = 1
+shader_parameter/metallic_mul = 1.0
+shader_parameter/roughness_mul = 1.0
+shader_parameter/ao_mul = 1.0
+shader_parameter/packed_format = 0

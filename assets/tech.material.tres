@@ -1,0 +1,24 @@
+[gd_resource type="ShaderMaterial" format=3 uid="uid://cpqpo4qaaglt4"]
+
+[ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_mx4tg"]
+[ext_resource type="Texture2D" uid="uid://cscipgiv1tcal" path="res://web/source/public/assets/tech_Color_bc1dc229-cba0-4cf1-bc7a-abbf97d72d96.jpg" id="2_lkm3r"]
+[ext_resource type="Texture2D" uid="uid://rfq2137buav4" path="res://web/source/public/assets/tech_tripo_material_bc1dc229-cba0-4cf1-bc7a-abbf97d72d96_normal.jpg" id="3_unuh5"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_mx4tg")
+shader_parameter/uv_tiling = Vector2(1, 1)
+shader_parameter/uv_offset = Vector2(0, 0)
+shader_parameter/albedo_tex = ExtResource("2_lkm3r")
+shader_parameter/albedo_color = Color(1, 1, 1, 1)
+shader_parameter/albedo_brightness = 1.0
+shader_parameter/albedo_contrast = 1.0
+shader_parameter/albedo_saturation = 1.0
+shader_parameter/normal_tex = ExtResource("3_unuh5")
+shader_parameter/normal_scale = 1.0
+shader_parameter/flip_normal_y = false
+shader_parameter/texture_mode = 1
+shader_parameter/metallic_mul = 1.0
+shader_parameter/roughness_mul = 1.0
+shader_parameter/ao_mul = 1.0
+shader_parameter/packed_format = 0
