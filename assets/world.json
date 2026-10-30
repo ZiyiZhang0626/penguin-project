@@ -1,0 +1,285 @@
+{
+	"base": {
+		"H1": [
+			88,
+			180,
+			100,
+			3,
+			true
+		],
+		"H2": [
+			94,
+			380,
+			170,
+			5,
+			true
+		],
+		"H3": [
+			46,
+			560,
+			120,
+			35,
+			false
+		],
+		"T1": [
+			92,
+			140,
+			80,
+			2,
+			true
+		],
+		"T2": [
+			84,
+			260,
+			140,
+			4,
+			true
+		],
+		"T3": [
+			53,
+			420,
+			160,
+			25,
+			false
+		],
+		"W1": [
+			86,
+			220,
+			130,
+			4,
+			true
+		],
+		"W2": [
+			89,
+			520,
+			210,
+			8,
+			true
+		],
+		"W3": [
+			41,
+			600,
+			240,
+			50,
+			false
+		]
+	},
+	"ending_by_path": {
+		"H1-L": "slowburn",
+		"H1-S": "quiet",
+		"H2-L": "hit",
+		"H2-S": "cult",
+		"H3-L": "crash",
+		"H3-S": "lovehate",
+		"T1-L": "slowburn",
+		"T1-S": "quiet",
+		"T2-L": "cult",
+		"T2-S": "slowburn",
+		"T3-L": "lovehate",
+		"T3-S": "outplayed",
+		"W1-L": "slowburn",
+		"W1-S": "quiet",
+		"W2-L": "hit",
+		"W2-S": "hit",
+		"W3-L": "crash",
+		"W3-S": "teamcrash"
+	},
+	"ending_profiles": {
+		"crash": {
+			"clip": "end_crash",
+			"future": "停止新宣传，先修好玩家离开的理由。",
+			"market": "宣传带来了玩家，体验没能留住他们。",
+			"protagonist": "饭团留下收拾残局，要把道歉变成更新。",
+			"publishing": "L",
+			"route": "W",
+			"tagline": "开服那晚很挤，后来椅子空了。",
+			"title": "游戏高开低走",
+			"version": "W3"
+		},
+		"cult": {
+			"clip": "end_cult",
+			"future": "守住特色，给这群玩家稳定的更新。",
+			"market": "忠实玩家研究玩法，也开始创作自己的作品。",
+			"protagonist": "饭团找到自己的位置：做一款值得认真玩的游戏。",
+			"publishing": "S",
+			"route": "H",
+			"tagline": "玩家不算多，攻略倒是一篇比一篇长。",
+			"title": "小圈神作",
+			"version": "H2"
+		},
+		"hit": {
+			"clip": "end_hit",
+			"future": "扩充团队，先把更新和服务器做好。",
+			"market": "朋友带来朋友，游戏成了大家的固定节目。",
+			"protagonist": "饭团留任制作人，学着把热闹变成长久。",
+			"publishing": "L",
+			"route": "W",
+			"tagline": "玩家开始催更，老板开始催续作。",
+			"title": "游戏爆了",
+			"version": "W2"
+		},
+		"lovehate": {
+			"clip": "end_lovehate",
+			"future": "暂缓新外观，把平衡和信息做清楚。",
+			"market": "角色很受欢迎，对局体验却让玩家失望。",
+			"protagonist": "饭团继续负责项目，先兑现欠下的体验。",
+			"publishing": "S",
+			"route": "H",
+			"tagline": "角色舍不得放，排位又忍不住骂。",
+			"title": "玩家边骂边买",
+			"version": "H3"
+		},
+		"outplayed": {
+			"clip": "end_outplayed",
+			"future": "缩减计划，找回一个独有的玩法。",
+			"market": "同类游戏更成熟，玩家和朋友都留在那边。",
+			"protagonist": "饭团重新做功课，先回答“为什么要玩我们”。",
+			"publishing": "S",
+			"route": "T",
+			"tagline": "玩家夸了一句，转身去找朋友了。",
+			"title": "竞争不过同类",
+			"version": "T3"
+		},
+		"quiet": {
+			"clip": "end_quiet",
+			"future": "收紧预算，重新寻找愿意留下的玩家。",
+			"market": "少数玩家喜欢它，更多人还没听过它。",
+			"protagonist": "饭团获得一次重来的机会，这回得走出会议室。",
+			"publishing": "S",
+			"route": "T",
+			"tagline": "椅子准备好了，玩家还没来。",
+			"title": "游戏没人玩",
+			"version": "T1"
+		},
+		"slowburn": {
+			"clip": "end_slowburn",
+			"future": "按玩家反馈更新，稳步扩大团队。",
+			"market": "第一批玩家留下了，口碑慢慢传开。",
+			"protagonist": "饭团终于有了底气，下一次也不急着许愿。",
+			"publishing": "L",
+			"route": "T",
+			"tagline": "起初只有几个人，后来他们带来了朋友。",
+			"title": "游戏低开高走",
+			"version": "T1"
+		},
+		"teamcrash": {
+			"clip": "end_teamcrash",
+			"future": "停止新内容，争取观察期，集中修复连接。",
+			"market": "排队和掉线拆散了队伍，热度也跟着散了。",
+			"protagonist": "饭团接过抢修排期，也开始给同事留休息时间。",
+			"publishing": "S",
+			"route": "W",
+			"tagline": "玩家下线了，办公室还没下班。",
+			"title": "团队先爆了",
+			"version": "W3"
+		}
+	},
+	"expected": {
+		"H1-L": 33.19,
+		"H1-S": 2.22,
+		"H2-L": 190.5,
+		"H2-S": 62.7,
+		"H3-L": 173.97,
+		"H3-S": 114.8,
+		"T1-L": 7.58,
+		"T1-S": -3.96,
+		"T2-L": 84.67,
+		"T2-S": 14.72,
+		"T3-L": 93.4,
+		"T3-S": 40.5,
+		"W1-L": 47.8,
+		"W1-S": -2.16,
+		"W2-L": 293.13,
+		"W2-S": 104.88,
+		"W3-L": -32.72,
+		"W3-S": -50.0
+	},
+	"hotspots": {
+		"art": {
+			"label": "糖豆 · 美术伙伴",
+			"position": [
+				0.0,
+				0.0,
+				3.79999995231628
+			]
+		},
+		"evidence_a": {
+			"label": "测试记录 A · 专业样本",
+			"position": [
+				11.3000001907349,
+				0.0,
+				-3.79999995231628
+			]
+		},
+		"evidence_b": {
+			"label": "测试记录 B · 普通样本",
+			"position": [
+				11.0,
+				0.0,
+				2.5
+			]
+		},
+		"meeting": {
+			"label": "制作会议 · 做出承诺",
+			"position": [
+				6.0,
+				0.0,
+				0.0
+			]
+		},
+		"ops": {
+			"label": "泡芙 · 运营伙伴",
+			"position": [
+				-5.0,
+				0.0,
+				3.79999995231628
+			]
+		},
+		"planner": {
+			"label": "芝麻 · 资深策划",
+			"position": [
+				-5.0,
+				0.0,
+				-1.79999995231628
+			]
+		},
+		"screen": {
+			"label": "当前版本 · 试玩 / 首播",
+			"position": [
+				10.0,
+				0.0,
+				-0.600000023841858
+			]
+		},
+		"tech": {
+			"label": "布丁 · 技术负责人",
+			"position": [
+				-0.5,
+				0.0,
+				-1.79999995231628
+			]
+		},
+		"terrace": {
+			"label": "露台谈话 · 团队的明天",
+			"position": [
+				2.0,
+				0.0,
+				11.0
+			]
+		},
+		"test": {
+			"label": "原型测试 · 三份反馈",
+			"position": [
+				2.0,
+				0.0,
+				0.0
+			]
+		}
+	},
+	"player_start": [
+		-2,
+		0,
+		1
+	],
+	"speed": 3.2
+}

@@ -1,0 +1,27 @@
+{
+  "protagonist": {
+    "name": "饭团",
+    "role": "制作人",
+    "description": "第一次掌勺，团队别糊。"
+  },
+  "planner": {
+    "name": "芝麻",
+    "role": "策划",
+    "description": "小小一粒，主意很大。"
+  },
+  "tech": {
+    "name": "布丁",
+    "role": "技术",
+    "description": "脾气软软的，服务器要稳稳的。"
+  },
+  "ops": {
+    "name": "泡芙",
+    "role": "运营",
+    "description": "爱凑热闹，也记得冷场时留下的人。"
+  },
+  "art": {
+    "name": "糖豆",
+    "role": "美术",
+    "description": "口袋装着颜色，心里装着预算。"
+  }
+}
