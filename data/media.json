@@ -32,13 +32,13 @@
       "url": "media/H2.mp4",
       "duration": 30.08
     },
-    "W": {
-      "url": "media/W.mp4",
-      "duration": 30.048
-    },
     "W1": {
       "url": "media/W1.mp4",
       "duration": 30.165333333333333
+    },
+    "W": {
+      "url": "media/W.mp4",
+      "duration": 30.048
     },
     "W2": {
       "url": "media/W2.mp4",
@@ -48,37 +48,13 @@
       "url": "media/W3.mp4",
       "duration": 30.08
     },
-    "intro": {
-      "url": "media/intro.mp4",
+    "end_hit": {
+      "url": "media/end_hit.mp4",
       "duration": 30.08
-    },
-    "debate": {
-      "url": "media/debate.mp4",
-      "duration": 30.08
-    },
-    "polish": {
-      "url": "media/polish.mp4",
-      "duration": 30.08
-    },
-    "rush": {
-      "url": "media/rush.mp4",
-      "duration": 30.08
-    },
-    "large": {
-      "url": "media/large.mp4",
-      "duration": 30.165333333333333
-    },
-    "small": {
-      "url": "media/small.mp4",
-      "duration": 30.208
     },
     "end_quiet": {
       "url": "media/end_quiet.mp4",
       "duration": 30.048
-    },
-    "end_hit": {
-      "url": "media/end_hit.mp4",
-      "duration": 30.08
     },
     "end_crash": {
       "url": "media/end_crash.mp4",
@@ -96,6 +72,14 @@
       "url": "media/end_cult.mp4",
       "duration": 30.08
     },
+    "act_T1": {
+      "url": "media/act_T1.mp4",
+      "duration": 20.064
+    },
+    "act_T": {
+      "url": "media/act_T.mp4",
+      "duration": 20.064
+    },
     "end_lovehate": {
       "url": "media/end_lovehate.mp4",
       "duration": 30.08
@@ -103,6 +87,54 @@
     "end_teamcrash": {
       "url": "media/end_teamcrash.mp4",
       "duration": 30.08
+    },
+    "act_T2": {
+      "url": "media/act_T2.mp4",
+      "duration": 20.064
+    },
+    "act_H": {
+      "url": "media/act_H.mp4",
+      "duration": 20.064
+    },
+    "act_T3": {
+      "url": "media/act_T3.mp4",
+      "duration": 20.064
+    },
+    "act_W": {
+      "url": "media/act_W.mp4",
+      "duration": 20.064
+    },
+    "act_H2": {
+      "url": "media/act_H2.mp4",
+      "duration": 20.064
+    },
+    "act_W1": {
+      "url": "media/act_W1.mp4",
+      "duration": 20.064
+    },
+    "act_W2": {
+      "url": "media/act_W2.mp4",
+      "duration": 20.064
+    },
+    "act_W3": {
+      "url": "media/act_W3.mp4",
+      "duration": 20.064
+    },
+    "launch_S": {
+      "url": "media/launch_S.mp4",
+      "duration": 20.064
+    },
+    "launch_L": {
+      "url": "media/launch_L.mp4",
+      "duration": 20.064
+    },
+    "act_H1": {
+      "url": "media/act_H1.mp4",
+      "duration": 20.064
+    },
+    "act_H3": {
+      "url": "media/act_H3.mp4",
+      "duration": 20.064
     }
   },
   "music": {
