@@ -1,9 +1,9 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://cs584ip7qgdt4"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_b61vb"]
-[ext_resource type="Texture2D" uid="uid://dc5s06yx2bacr" path="res://web/release/assets/company_23.jpg" id="2_fdx3g"]
-[ext_resource type="Texture2D" uid="uid://b1rhnnfqenj7m" path="res://web/release/assets/company_polish_fabric_teal_normal.jpg" id="3_afh7o"]
-[ext_resource type="Texture2D" uid="uid://5l17cqjfcf1s" path="res://web/release/assets/company_polish_fabric_teal_orm.jpg" id="4_sp1jt"]
+[ext_resource type="Texture2D" uid="uid://dc5s06yx2bacr" path="res://web/github_pages/assets/company_23.jpg" id="2_fdx3g"]
+[ext_resource type="Texture2D" uid="uid://b1rhnnfqenj7m" path="res://web/github_pages/assets/company_polish_fabric_teal_normal.jpg" id="3_afh7o"]
+[ext_resource type="Texture2D" uid="uid://5l17cqjfcf1s" path="res://web/github_pages/assets/company_polish_fabric_teal_orm.jpg" id="4_sp1jt"]
 
 [resource]
 render_priority = 0

@@ -1,9 +1,9 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://cjw6252hw4jb1"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_fkkmu"]
-[ext_resource type="Texture2D" uid="uid://dokt11i58s802" path="res://web/release/assets/company_9.jpg" id="2_d4iot"]
-[ext_resource type="Texture2D" uid="uid://dc0klbx03um7x" path="res://web/release/assets/company_terracotta_normal.jpg" id="3_b5icq"]
-[ext_resource type="Texture2D" uid="uid://w31msry4l8xo" path="res://web/release/assets/company_terracotta_orm.jpg" id="4_bwmjt"]
+[ext_resource type="Texture2D" uid="uid://dokt11i58s802" path="res://web/github_pages/assets/company_9.jpg" id="2_d4iot"]
+[ext_resource type="Texture2D" uid="uid://dc0klbx03um7x" path="res://web/github_pages/assets/company_terracotta_normal.jpg" id="3_b5icq"]
+[ext_resource type="Texture2D" uid="uid://w31msry4l8xo" path="res://web/github_pages/assets/company_terracotta_orm.jpg" id="4_bwmjt"]
 
 [resource]
 render_priority = 0

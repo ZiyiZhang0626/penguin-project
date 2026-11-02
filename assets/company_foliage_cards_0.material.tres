@@ -1,8 +1,8 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://dplx4m7eqs75d"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_abnia"]
-[ext_resource type="Texture2D" uid="uid://c4jyje8jqexcq" path="res://web/release/assets/company_35.jpg" id="2_frc0j"]
-[ext_resource type="Texture2D" uid="uid://bii0eguw51syo" path="res://web/release/assets/company_shoot_normal_3.jpg" id="3_bjfe1"]
+[ext_resource type="Texture2D" uid="uid://c4jyje8jqexcq" path="res://web/github_pages/assets/company_35.jpg" id="2_frc0j"]
+[ext_resource type="Texture2D" uid="uid://bii0eguw51syo" path="res://web/github_pages/assets/company_shoot_normal_3.jpg" id="3_bjfe1"]
 
 [resource]
 render_priority = 0

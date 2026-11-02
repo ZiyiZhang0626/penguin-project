@@ -1,9 +1,9 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://csnc4yjf6ql4p"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_k128h"]
-[ext_resource type="Texture2D" uid="uid://b5p4rfo5g0st0" path="res://web/release/assets/company_0.jpg" id="2_wvbrf"]
-[ext_resource type="Texture2D" uid="uid://bvf3vtsc7td2d" path="res://web/release/assets/company_oak_normal.jpg" id="3_8ja8c"]
-[ext_resource type="Texture2D" uid="uid://dutusg81spfun" path="res://web/release/assets/company_oak_orm.jpg" id="4_d63sn"]
+[ext_resource type="Texture2D" uid="uid://b5p4rfo5g0st0" path="res://web/github_pages/assets/company_0.jpg" id="2_wvbrf"]
+[ext_resource type="Texture2D" uid="uid://bvf3vtsc7td2d" path="res://web/github_pages/assets/company_oak_normal.jpg" id="3_8ja8c"]
+[ext_resource type="Texture2D" uid="uid://dutusg81spfun" path="res://web/github_pages/assets/company_oak_orm.jpg" id="4_d63sn"]
 
 [resource]
 render_priority = 0

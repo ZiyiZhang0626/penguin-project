@@ -1,9 +1,9 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://c4r58cyi6oae0"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_lqjn4"]
-[ext_resource type="Texture2D" uid="uid://3e263faax0s" path="res://web/release/assets/company_v6_wood_albedo.jpg" id="2_qwo01"]
-[ext_resource type="Texture2D" uid="uid://dlwesxym52apj" path="res://web/release/assets/company_v6_wood_normal.jpg" id="3_3irbv"]
-[ext_resource type="Texture2D" uid="uid://bt7d4mc3gnv1" path="res://web/release/assets/company_v6_wood_orm.jpg" id="4_wgqf7"]
+[ext_resource type="Texture2D" uid="uid://3e263faax0s" path="res://web/github_pages/assets/company_v6_wood_albedo.jpg" id="2_qwo01"]
+[ext_resource type="Texture2D" uid="uid://dlwesxym52apj" path="res://web/github_pages/assets/company_v6_wood_normal.jpg" id="3_3irbv"]
+[ext_resource type="Texture2D" uid="uid://bt7d4mc3gnv1" path="res://web/github_pages/assets/company_v6_wood_orm.jpg" id="4_wgqf7"]
 
 [resource]
 render_priority = 0

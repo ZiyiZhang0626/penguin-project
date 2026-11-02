@@ -90,11 +90,11 @@
     },
     "act_T2": {
       "url": "media/act_T2.mp4",
-      "duration": 20.064
+      "duration": 20.0
     },
     "act_H": {
       "url": "media/act_H.mp4",
-      "duration": 20.064
+      "duration": 20.0
     },
     "act_T3": {
       "url": "media/act_T3.mp4",
@@ -106,7 +106,7 @@
     },
     "act_H2": {
       "url": "media/act_H2.mp4",
-      "duration": 20.064
+      "duration": 20.0
     },
     "act_W1": {
       "url": "media/act_W1.mp4",

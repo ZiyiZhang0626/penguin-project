@@ -1,7 +1,7 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://broc4as2jk6cr"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_j24fd"]
-[ext_resource type="Texture2D" uid="uid://buxfkgvne6ejs" path="res://web/source/public/assets/company_49.png" id="2_f5pd1"]
+[ext_resource type="Texture2D" uid="uid://buxfkgvne6ejs" path="res://web/github_pages/assets/company_49.png" id="2_f5pd1"]
 
 [resource]
 render_priority = 0

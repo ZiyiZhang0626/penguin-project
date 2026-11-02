@@ -1,9 +1,9 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://bi5gi7p77h5hy"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_g71sn"]
-[ext_resource type="Texture2D" uid="uid://cop8uohwubftb" path="res://web/release/assets/company_v6_sandstone_albedo.jpg" id="2_d21wt"]
-[ext_resource type="Texture2D" uid="uid://bh46pb48csffr" path="res://web/release/assets/company_v6_sandstone_normal.jpg" id="3_j7rnk"]
-[ext_resource type="Texture2D" uid="uid://b8g6q1ldl5olm" path="res://web/release/assets/company_v6_sandstone_orm.jpg" id="4_3fp4f"]
+[ext_resource type="Texture2D" uid="uid://cop8uohwubftb" path="res://web/github_pages/assets/company_v6_sandstone_albedo.jpg" id="2_d21wt"]
+[ext_resource type="Texture2D" uid="uid://bh46pb48csffr" path="res://web/github_pages/assets/company_v6_sandstone_normal.jpg" id="3_j7rnk"]
+[ext_resource type="Texture2D" uid="uid://b8g6q1ldl5olm" path="res://web/github_pages/assets/company_v6_sandstone_orm.jpg" id="4_3fp4f"]
 
 [resource]
 render_priority = 0

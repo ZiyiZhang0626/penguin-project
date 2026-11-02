@@ -1,7 +1,7 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://b3emgmmmjfuwi"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_vua6l"]
-[ext_resource type="Texture2D" uid="uid://6i0c6ra2oqyd" path="res://web/release/assets/riverfront_0.jpg" id="2_q8ax0"]
+[ext_resource type="Texture2D" uid="uid://6i0c6ra2oqyd" path="res://web/github_pages/assets/riverfront_0.jpg" id="2_q8ax0"]
 [ext_resource type="Texture2D" uid="uid://dud7b5x0y810a" path="res://web/release/assets/riverfront_rf_pavers_normal.jpg" id="3_13s1c"]
 [ext_resource type="Texture2D" uid="uid://cip17w0jfg26d" path="res://web/release/assets/riverfront_rf_pavers_orm.jpg" id="4_pxwpo"]
 

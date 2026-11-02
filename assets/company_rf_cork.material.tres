@@ -1,9 +1,9 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://c7q34bq1gwl73"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_526mn"]
-[ext_resource type="Texture2D" uid="uid://senxcrvo3n8t" path="res://web/release/assets/company_32.jpg" id="2_tu5uy"]
-[ext_resource type="Texture2D" uid="uid://cfhknv0q35xi2" path="res://web/release/assets/company_rf_cork_normal.jpg" id="3_gjahp"]
-[ext_resource type="Texture2D" uid="uid://by88ybrv1apgc" path="res://web/release/assets/company_rf_cork_orm.jpg" id="4_22mfd"]
+[ext_resource type="Texture2D" uid="uid://senxcrvo3n8t" path="res://web/github_pages/assets/company_32.jpg" id="2_tu5uy"]
+[ext_resource type="Texture2D" uid="uid://cfhknv0q35xi2" path="res://web/github_pages/assets/company_rf_cork_normal.jpg" id="3_gjahp"]
+[ext_resource type="Texture2D" uid="uid://by88ybrv1apgc" path="res://web/github_pages/assets/company_rf_cork_orm.jpg" id="4_22mfd"]
 
 [resource]
 render_priority = 0

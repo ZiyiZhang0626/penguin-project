@@ -1,7 +1,7 @@
 [gd_resource type="ShaderMaterial" format=3 uid="uid://dsb2x0u427fpw"]
 
 [ext_resource type="Shader" uid="uid://dt747tg6dnoda" path="res://MagicLomix/Shaders/SH_StandardPBR.gdshader" id="1_rcldl"]
-[ext_resource type="Texture2D" uid="uid://7nyd7b0qd4jc" path="res://web/release/assets/riverfront_building_material_building_style_trim_albedo.png" id="2_knykq"]
+[ext_resource type="Texture2D" uid="uid://7nyd7b0qd4jc" path="res://web/source/public/assets/riverfront_building_material_building_style_trim_albedo.png" id="2_knykq"]
 [ext_resource type="Texture2D" uid="uid://csj7v35as145m" path="res://web/release/assets/riverfront_building_material_building_style_trim_normal.png" id="3_x4yht"]
 [ext_resource type="Texture2D" uid="uid://ckyyogb3qqld1" path="res://web/release/assets/riverfront_building_material_building_style_trim_orm.png" id="4_4g263"]
 
