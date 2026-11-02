@@ -1526,7 +1526,8 @@
           "text": "那咱们也坐好，今晚陪他们玩明白。"
         }
       ],
-      "film": "launch_S"
+      "film": "launch_S",
+      "preparation_film": "prep_S"
     },
     "L": {
       "label": "全平台一起开场",
@@ -1541,7 +1542,8 @@
           "text": "好。布丁，我的椅子搬你旁边，今晚一起守。"
         }
       ],
-      "film": "launch_L"
+      "film": "launch_L",
+      "preparation_film": "prep_L"
     }
   },
   "revision": "process_v6",
@@ -1575,6 +1577,13 @@
       "body": "首月结果看完了。饭团叫上伙伴，去露台商量接下来怎么做。",
       "next": "穿过玻璃门，到江边露台找团队。",
       "target": "terrace"
+    },
+    "launch": {
+      "time": "开服前夜 → 第一晚",
+      "title": "准备好了，去看看玩家怎么说",
+      "body": "邀请和发布流程都已安排好。饭团叫上大家，到会议区的大屏看正式开服。",
+      "next": "去长桌旁的大屏。跟着金色标记走，到金圈处按 E。",
+      "target": "screen"
     }
   },
   "ending_dialogue": {

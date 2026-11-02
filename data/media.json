@@ -90,11 +90,17 @@
     },
     "act_T2": {
       "url": "media/act_T2.mp4",
-      "duration": 20.0
+      "duration": 20.064,
+      "source_sha256": "87b27d7a8581c30bc4051e88c1c755cb6ec312ce4690dcdcefd1d675f9b8419d",
+      "origin": "AIGC native audiovisual generation",
+      "revision": "choice_recovery_v12"
     },
     "act_H": {
       "url": "media/act_H.mp4",
-      "duration": 20.0
+      "duration": 20.064,
+      "source_sha256": "e0e300965dd85611dbeae09cd5fec27cfa0854a18a85c3d8339cd110296741e9",
+      "origin": "AIGC native audiovisual generation",
+      "revision": "choice_recovery_v12"
     },
     "act_T3": {
       "url": "media/act_T3.mp4",
@@ -106,7 +112,10 @@
     },
     "act_H2": {
       "url": "media/act_H2.mp4",
-      "duration": 20.0
+      "duration": 20.064,
+      "source_sha256": "d522c49d787e9bc223647de2d7e480e092d959317ee1112f92a4808d32502b28",
+      "origin": "AIGC native audiovisual generation",
+      "revision": "choice_recovery_v12"
     },
     "act_W1": {
       "url": "media/act_W1.mp4",
@@ -122,11 +131,17 @@
     },
     "launch_S": {
       "url": "media/launch_S.mp4",
-      "duration": 20.064
+      "duration": 20.064,
+      "source_sha256": "5c9378efee31970989df5116534984895da21809d7e27485eca18d72bb4ce997",
+      "origin": "AIGC native audiovisual generation",
+      "revision": "release_v12"
     },
     "launch_L": {
       "url": "media/launch_L.mp4",
-      "duration": 20.064
+      "duration": 20.064,
+      "source_sha256": "45c3213a60deac4de062bc081d557f2db8aafbf1727d33e331f72cc31e78a236",
+      "origin": "AIGC native audiovisual generation",
+      "revision": "release_v12"
     },
     "act_H1": {
       "url": "media/act_H1.mp4",
@@ -135,6 +150,20 @@
     "act_H3": {
       "url": "media/act_H3.mp4",
       "duration": 20.064
+    },
+    "prep_S": {
+      "url": "media/prep_S.mp4",
+      "duration": 20.064,
+      "source_sha256": "3ce54e4905b430fb24c9d16211ee215c1d3d0c0a381d1ab24ccfc76cebbd30da",
+      "origin": "AIGC native audiovisual generation",
+      "revision": "release_v12"
+    },
+    "prep_L": {
+      "url": "media/prep_L.mp4",
+      "duration": 20.064,
+      "source_sha256": "0bb2c0a9d65410e7b679157218ef6a865192687fae378af487de45dc9a5b119e",
+      "origin": "AIGC native audiovisual generation",
+      "revision": "release_v12"
     }
   },
   "music": {
