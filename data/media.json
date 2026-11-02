@@ -89,18 +89,18 @@
       "duration": 30.08
     },
     "act_T2": {
-      "url": "media/act_T2.mp4",
-      "duration": 20.064,
-      "source_sha256": "87b27d7a8581c30bc4051e88c1c755cb6ec312ce4690dcdcefd1d675f9b8419d",
+      "url": "media/act_T2.mp4?v=021f931bc419699a",
+      "duration": 30.08,
+      "source_sha256": "021f931bc419699aa7e9172afa5af5d8fcd8ccf361ef50fad84f6f44b42bd38f",
       "origin": "AIGC native audiovisual generation",
-      "revision": "choice_recovery_v12"
+      "revision": "choice_v13"
     },
     "act_H": {
-      "url": "media/act_H.mp4",
-      "duration": 20.064,
-      "source_sha256": "e0e300965dd85611dbeae09cd5fec27cfa0854a18a85c3d8339cd110296741e9",
+      "url": "media/act_H.mp4?v=7f21aedcef32a64e",
+      "duration": 30.08,
+      "source_sha256": "7f21aedcef32a64ecb4fdb6c40b4206e29747687844233ca5502d802970c3516",
       "origin": "AIGC native audiovisual generation",
-      "revision": "choice_recovery_v12"
+      "revision": "choice_v13"
     },
     "act_T3": {
       "url": "media/act_T3.mp4",
@@ -111,11 +111,11 @@
       "duration": 20.064
     },
     "act_H2": {
-      "url": "media/act_H2.mp4",
-      "duration": 20.064,
-      "source_sha256": "d522c49d787e9bc223647de2d7e480e092d959317ee1112f92a4808d32502b28",
+      "url": "media/act_H2.mp4?v=1ccdd429419a00cd",
+      "duration": 30.08,
+      "source_sha256": "1ccdd429419a00cd177aeb6c2291eddd425ff3051d32b34764c1864ee2a458fd",
       "origin": "AIGC native audiovisual generation",
-      "revision": "choice_recovery_v12"
+      "revision": "choice_v13"
     },
     "act_W1": {
       "url": "media/act_W1.mp4",
